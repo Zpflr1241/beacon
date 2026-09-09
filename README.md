@@ -1,0 +1,2 @@
+# beacon
+not good
